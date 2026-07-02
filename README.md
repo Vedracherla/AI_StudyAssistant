@@ -1,6 +1,6 @@
 ---
 title: AI Study Assistant
-live demo :
+live demo:
 https://huggingface.co/spaces/vedracherla/AI_StudyAssistant
 emoji: 📚
 colorFrom: blue
