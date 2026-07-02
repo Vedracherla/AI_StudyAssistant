@@ -1,7 +1,5 @@
 ---
 title: AI Study Assistant
-live demo:
-https://huggingface.co/spaces/vedracherla/AI_StudyAssistant
 emoji: 📚
 colorFrom: blue
 colorTo: green
@@ -13,7 +11,11 @@ pinned: false
 # 📚 AI Study Assistant
 
 An AI-powered Study Assistant built using **Python**, **Google Gemini API**, and **Gradio**.
+## 🚀 Live Demo
 
+🌐 *Hugging Face Space:*  
+https://huggingface.co/spaces/vedracherla/AI_StudyAssistant
+---
 ## 🚀 Features
 
 - 🤖 Ask any study-related question
